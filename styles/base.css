@@ -157,6 +157,9 @@ footer {
     background-color: #1b4965;
     color: #ffffff;
     text-align: center;
+    clear: both;
+    padding: 60px;
+
     
 }
 

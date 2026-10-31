@@ -149,24 +149,19 @@ main {
 .card1 img {
     width: 150px;
     height: auto;
+    margin-right: 10px;
+    padding: 7px;
+
+}
+
+
+.profile-photo {
     float: right;
-    margin-right: 10px;
-    padding: 7px;
-
 }
 
-
-
-.card2 img {
-    width: 10px;
-    height: auto;
+.flag-photo {
     float: left;
-    margin-right: 10px;
-    padding: 7px;
-
-
 }
-
 
 
 .card1 p {
@@ -176,7 +171,15 @@ padding: 5x;
 
 }
 
+.card1 h4 {
+    font-size: 10px;
+    color: gray;
+    font-style: italic;
+    clear: both;
+  
+    
 
+}
 
 .resources-list {
     padding-left: 20px;

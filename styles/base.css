@@ -110,7 +110,7 @@ main {
 }
 
 .bio-container {
-    display: flex;
+    display: grid;
     gap: 15px;
     align-items: flex-start;
 }
@@ -173,7 +173,7 @@ padding: 5x;
 
 .card1 h4 {
     font-size: 10px;
-    color: gray;
+    color: rgb(145, 141, 141);
     font-style: italic;
     clear: both;
   

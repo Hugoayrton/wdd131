@@ -146,12 +146,16 @@ main {
     width: 120px;
 }
 
-.card1 img {
-    
+.profile-photo {
+    float: right;
+    width: 200px;
     height: auto;
-    margin-right: 10px;
-    padding: 7px;
+}
 
+.flag-photo {
+    float: left;
+    width: 200px;
+    height: auto;
 }
 
 
